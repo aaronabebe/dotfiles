@@ -36,6 +36,7 @@ let g:airline#extensions#tabline#enabled = 1
 
 " colorscheme settings
 set termguicolors
+set background=dark
 autocmd vimenter * ++nested colorscheme gruvbox
 
 
